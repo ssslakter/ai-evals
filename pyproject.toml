@@ -1,0 +1,10 @@
+[project]
+name = "ai-evals"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "inspect-ai>=0.3.199",
+    "jupyter>=1.1.1",
+    "openai>=2.29.0",
+]
